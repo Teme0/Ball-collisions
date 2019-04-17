@@ -1,3 +1,4 @@
-#Ball-collisions
+# Ball-collisions
 
-use wasd to move and space to shoot
+Use wasd to move and space to shoot.
+Click close to middle to spanwn a ball.
